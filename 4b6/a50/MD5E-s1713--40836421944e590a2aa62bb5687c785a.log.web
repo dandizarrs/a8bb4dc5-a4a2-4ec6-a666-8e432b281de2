@@ -2,7 +2,14 @@
 1657044917.215211s 1 https://api.dandiarchive.org/api/zarr/a8bb4dc5-a4a2-4ec6-a666-8e432b281de2.zarr/0/0/0/12/0/82
 1657044917.23292s 1 https://api.dandiarchive.org/api/zarr/a8bb4dc5-a4a2-4ec6-a666-8e432b281de2.zarr/0/0/0/12/0/83
 1657044917.261104s 1 https://api.dandiarchive.org/api/zarr/a8bb4dc5-a4a2-4ec6-a666-8e432b281de2.zarr/0/0/0/12/0/84
-1657044917.149101s 1 https://dandiarchive.s3.amazonaws.com/zarr/a8bb4dc5-a4a2-4ec6-a666-8e432b281de2/0/0/0/12/0/81?versionId=L4.cuHzRhVb44ROfvxXRlMbCWz79FNu0
+1663719570.312964s 1 https://dandiarchive.s3.amazonaws.com/zarr/a8bb4dc5-a4a2-4ec6-a666-8e432b281de2/0/0/0/12/0/81?versionId=L4.cuHzRhVb44ROfvxXRlMbCWz79FNu0
 1657044917.178128s 1 https://dandiarchive.s3.amazonaws.com/zarr/a8bb4dc5-a4a2-4ec6-a666-8e432b281de2/0/0/0/12/0/82?versionId=BC7mdbdO2P2qw_fw.olFdHo.r0a55OW7
 1657044917.230416s 1 https://dandiarchive.s3.amazonaws.com/zarr/a8bb4dc5-a4a2-4ec6-a666-8e432b281de2/0/0/0/12/0/83?versionId=OsS9R8Y5OO9m04_DVgd7_z0hJxgOKvD.
 1657044917.256805s 1 https://dandiarchive.s3.amazonaws.com/zarr/a8bb4dc5-a4a2-4ec6-a666-8e432b281de2/0/0/0/12/0/84?versionId=Is7j.XkSLEVOUQnYDmeYHH7VhSjm6yNY
+1663719570.31975s 1 https://api.dandiarchive.org/api/zarr/a8bb4dc5-a4a2-4ec6-a666-8e432b281de2.zarr/0/0/0/12/0/81
+1663719570.330061s 1 https://dandiarchive.s3.amazonaws.com/zarr/a8bb4dc5-a4a2-4ec6-a666-8e432b281de2/0/0/0/12/0/82?versionId=BC7mdbdO2P2qw_fw.olFdHo.r0a55OW7
+1663719570.334s 1 https://api.dandiarchive.org/api/zarr/a8bb4dc5-a4a2-4ec6-a666-8e432b281de2.zarr/0/0/0/12/0/82
+1663719570.344382s 1 https://dandiarchive.s3.amazonaws.com/zarr/a8bb4dc5-a4a2-4ec6-a666-8e432b281de2/0/0/0/12/0/83?versionId=OsS9R8Y5OO9m04_DVgd7_z0hJxgOKvD.
+1663719570.348311s 1 https://api.dandiarchive.org/api/zarr/a8bb4dc5-a4a2-4ec6-a666-8e432b281de2.zarr/0/0/0/12/0/83
+1663719570.358544s 1 https://dandiarchive.s3.amazonaws.com/zarr/a8bb4dc5-a4a2-4ec6-a666-8e432b281de2/0/0/0/12/0/84?versionId=Is7j.XkSLEVOUQnYDmeYHH7VhSjm6yNY
+1663719570.362452s 1 https://api.dandiarchive.org/api/zarr/a8bb4dc5-a4a2-4ec6-a666-8e432b281de2.zarr/0/0/0/12/0/84
